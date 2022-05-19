@@ -1,7 +1,7 @@
 # SKB_DZ_7
 Запустить проект в IDE.
 
-/person/add - Добавить человека с параметрами("id", "name", "age", "emailAddress")
+/person/add - Добавить человека с параметрами("id", "name", "age", "emailAddress") в формате json
 
 /person/id/{id человека} - возвращает пользователя по id
 
